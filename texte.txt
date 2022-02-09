@@ -1,0 +1,19 @@
+dockerfile, crer cotneneur
+
+ces dockerfilke qi permzet creer images, ces images custome il faut les aves sur le hub, il faut faire docker pull tel commande tu peux recup le truc
+
+
+FROM debian:jessie
+
+RUN apt-get update \
+
+
+
+docker build -t nodeMounir: 1.0 .
+
+
+* = nimp quel caractère
+
+permet de creer une image qui nest pas node10 alpine
+
+
